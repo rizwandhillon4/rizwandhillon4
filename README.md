@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">Python Programmer | Django web developer | Machine Learning</h3>
-<img aling="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1BGPcqXW29r7ibY37FhWef&ust=1700501964606000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi9ns7N0IIDFQAAAAAdAAAAABAE">
+<img aling="right" alt="coding" width="400" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1BGPcqXW29r7ibY37FhWef&ust=1700501964606000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi9ns7N0IIDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwandhillon4&label=Profile%20views&color=0e75b6&style=flat" alt="rizwandhillon4" /> </p>
 
 - 🔭 I’m currently working on **Django E-commrance project**
