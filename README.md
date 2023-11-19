@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 <h3 align="center">Python Programmer | Django web developer | Machine Learning</h3>
-<center><img alt="coding" width="400" src="coding.gif"></center>
+<img align="left" alt="coding" width="400" src="coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwandhillon4&label=Profile%20views&color=0e75b6&style=flat" alt="rizwandhillon4" /> </p>
 
 - 🔭 I’m currently working on **Django E-commrance project**
