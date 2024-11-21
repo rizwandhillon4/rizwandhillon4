@@ -1,6 +1,6 @@
 ![logo](https://github.com/rizwandhillon4/rizwandhillon4/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
-<h3 align="center">Python Programmer | Django web developer | Machine Learning</h3>
+<h3 align="center">Python Programmer | Data Analyst | Machine Learning</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwandhillon4&label=Profile%20views&color=0e75b6&style=flat" alt="rizwandhillon4" /> </p>
 
 - 🔭 I’m currently working on **Django E-commrance project**
